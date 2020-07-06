@@ -1,10 +1,24 @@
-# Table of contents
-* [General Information] - (#General-Information)
-* [Technologies] - (#Technologies)
+# MyProfolio
+
+My Portfolio is a collection of projects which highlight the coding skills used in a work setting.
+
+## Getting Started
+
+Click on the link to open the web app [MyPortfolio](https://rogelfuentes.github.io/MyPortfolio/).
+
+## Content
+
+* [About me]()
+* [Projects]()
+* [Contact]()
 
 
-## General Information
-Folder it is a collection of personal projects witch highlights particular skills used in a work setting. 
+## Built With
 
-## Technologies
-HTML5 CSS 
+* [Bootstrap v4.5](https://getbootstrap.com/docs/4.5/getting-started/introduction/) - The web framework that has been used 
+* [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) - Markup language 
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) - Styling
+
+## Authors
+
+* **Rogel Fuentes**
